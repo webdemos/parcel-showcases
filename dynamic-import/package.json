@@ -7,6 +7,8 @@
     "parcel-bundler": "1.3.0"
   },
   "scripts": {
-    "start": "parcel --open index.html"
+    "start": "parcel --open index.html",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html"
   }
 }
