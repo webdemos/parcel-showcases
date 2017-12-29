@@ -1,0 +1,13 @@
+$base: #f938ab;
+
+body {
+  color: $base;
+  //background: url("http://pic.90sjimg.com/back_pic/qk/back_origin_pic/00/03/23/7cd48ff3f1eac8b803aa086fc2f505f4.jpg!/fw/1198/fh/561/quality/90/unsharp/true/compress/true/canvas/1198x561a0a0/format/webp") no-repeat center center fixed;
+  background: url("./images/webp.webp") no-repeat center center fixed;
+  //background: url("./images/man.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
