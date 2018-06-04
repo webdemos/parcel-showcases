@@ -1,5 +1,9 @@
 
+import app from './app';
+
 const framework = document.getElementById("tsapp");
+
+app.server();
 
 window.addEventListener('load', () => {
 
